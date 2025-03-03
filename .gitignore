@@ -28,3 +28,10 @@ coverage
 *.sw?
 
 *.tsbuildinfo
+
+# Environment 
+.env
+
+# Package.json
+package.json 
+package-lock.json
